@@ -9,7 +9,9 @@
 
 ## Flowchart
 
-[text](../../../../AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/C578B62099F8AC80C1F66028B53F7F07/flowChart4lab1.docx)
+The flow chart is in our test.drawio file
+
+
 ## Pseudocode
 
 Start
